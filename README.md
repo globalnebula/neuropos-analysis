@@ -97,17 +97,6 @@ neurofibro-progressor/
 │   └── stylegan2.pkl            # Pretrained weights
 │
 └── README.md
-
-🧑‍🚀 Team Valorant Loadout
-
-    🎯 S Kunal Achintya Reddy (Team Lead, Duelist - Took initiative & built core math SCLMA/DSGC)
-
-    🛡️ Kota VKS Prasad (Initiator - GNN Architect & Backend Dev)
-
-    🧠 Nithilesh Bollena (Controller - CV + GAN Tuner)
-
-    🗺️ Sriman Vashishta V (Sentinel - RAG + LangChain Engineer)
-
 🏁 Impact
 
     📉 Reduced diagnosis cost from ₹500–₹4000 → ₹15–₹40
