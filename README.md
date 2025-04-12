@@ -1,7 +1,5 @@
 # 🧠 Neurofibro Progressor
 
-> **🏆 1st Place Winner — Vivitsu '25 National Level Hackathon (322+ participants) @ GRIET College, Hyderabad**
-
 ## 🧬 Project Summary
 
 **Neurofibro Progressor** is a groundbreaking AI diagnostic system that uses **gait patterns**, **posture**, and **medical history** to detect and simulate the progression of **neurological** and **dermatological** disorders — all at a **cost as low as ₹15**, compared to traditional diagnostics priced ₹500–₹4000.
